@@ -1,0 +1,12 @@
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/bin/Debug/net7.0/UrlShortener.Domain.deps.json
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/bin/Debug/net7.0/UrlShortener.Domain.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/bin/Debug/net7.0/UrlShortener.Domain.pdb
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.csproj.AssemblyReference.cache
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.AssemblyInfoInputs.cache
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.AssemblyInfo.cs
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.csproj.CoreCompileInputs.cache
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/refint/UrlShortener.Domain.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/UrlShortener.Domain.pdb
+/Users/elysium/Projects/ShortyLink/UrlShortener.Domain/obj/Debug/net7.0/ref/UrlShortener.Domain.dll

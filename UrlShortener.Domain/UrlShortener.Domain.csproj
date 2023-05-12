@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Abstractions\" />
+    <None Remove="Abstractions\Repositories\" />
+    <None Remove="Abstractions\Services\" />
+    <None Remove="Entities\" />
+    <None Remove="DTO\" />
+    <None Remove="Mapping\" />
+    <None Remove="Validation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstractions\" />
+    <Folder Include="Abstractions\Repositories\" />
+    <Folder Include="Abstractions\Services\" />
+    <Folder Include="Entities\" />
+    <Folder Include="DTO\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Validation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+</Project>

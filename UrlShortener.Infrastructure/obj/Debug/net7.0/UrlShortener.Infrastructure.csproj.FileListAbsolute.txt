@@ -1,0 +1,15 @@
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/bin/Debug/net7.0/UrlShortener.Infrastructure.deps.json
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/bin/Debug/net7.0/UrlShortener.Infrastructure.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/bin/Debug/net7.0/UrlShortener.Infrastructure.pdb
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/bin/Debug/net7.0/UrlShortener.Domain.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/bin/Debug/net7.0/UrlShortener.Domain.pdb
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.csproj.AssemblyReference.cache
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.AssemblyInfoInputs.cache
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.AssemblyInfo.cs
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.csproj.CopyComplete
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/refint/UrlShortener.Infrastructure.dll
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/UrlShortener.Infrastructure.pdb
+/Users/elysium/Projects/ShortyLink/UrlShortener.Infrastructure/obj/Debug/net7.0/ref/UrlShortener.Infrastructure.dll
